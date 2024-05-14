@@ -1,4 +1,3 @@
-
 # Detector de Objetos com YOLO
 
 Este script é uma ferramenta versátil para detecção de objetos em imagens, vídeos, streams ao vivo e vídeos do YouTube usando o modelo YOLO (You Only Look Once).
@@ -102,4 +101,4 @@ Se você encontrar problemas ao executar o script, verifique se todas as depend�
 ## Créditos
 
 - Este script foi desenvolvido com base nos modelos YOLO do Ultralytics e nas bibliotecas de visão computacional OpenCV e PIL.
-- Obrigado à equipe da OpenAI pelo desenvolvimento do modelo de linguagem GPT-3.5 usado para gerar este README.
+- Créditos especiais para o Dr. Dheiver Francisco Santos pela contribuição para o desenvolvimento deste projeto.
